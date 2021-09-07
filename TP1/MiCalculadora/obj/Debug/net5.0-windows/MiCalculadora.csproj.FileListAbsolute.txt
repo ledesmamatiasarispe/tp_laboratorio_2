@@ -1,0 +1,84 @@
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\Trabajo_Practico_1.Form1.resources
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\bin\Debug\net5.0-windows\entidades.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\bin\Debug\net5.0-windows\entidades.pdb
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\Trabajo_Practico_1.Form1.resources
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\bin\Debug\net5.0-windows\entidades.dll
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\bin\Debug\net5.0-windows\entidades.pdb
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\arisp\Source\Repos\Tp_Laboratorio-2-\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\entidades.dll
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\entidades.pdb
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\matias\source\repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\Trabajo_Practico_1.LaCalculadora.resources
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\net5.0-windows\entidades.dll
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\bin\Debug\net5.0-windows\entidades.pdb
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\Trabajo_Practico_1.LaCalculadora.resources
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache

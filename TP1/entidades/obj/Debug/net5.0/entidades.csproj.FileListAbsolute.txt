@@ -1,0 +1,48 @@
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\obj\Debug\net5.0\entidades.csprojAssemblyReference.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\obj\Debug\net5.0\entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\obj\Debug\net5.0\entidades.AssemblyInfoInputs.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\obj\Debug\net5.0\entidades.AssemblyInfo.cs
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\obj\Debug\net5.0\entidades.csproj.CoreCompileInputs.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\bin\Debug\net5.0\entidades.deps.json
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\bin\Debug\net5.0\entidades.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\bin\Debug\net5.0\ref\entidades.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\bin\Debug\net5.0\entidades.pdb
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\obj\Debug\net5.0\entidades.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\obj\Debug\net5.0\ref\entidades.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\entidades\obj\Debug\net5.0\entidades.pdb
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\bin\Debug\net5.0\entidades.deps.json
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\bin\Debug\net5.0\entidades.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\bin\Debug\net5.0\ref\entidades.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\bin\Debug\net5.0\entidades.pdb
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.csprojAssemblyReference.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.AssemblyInfoInputs.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.AssemblyInfo.cs
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.csproj.CoreCompileInputs.cache
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\ref\entidades.dll
+C:\Users\arisp\source\repos\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.pdb
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\bin\Debug\net5.0\entidades.deps.json
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\bin\Debug\net5.0\entidades.dll
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\bin\Debug\net5.0\ref\entidades.dll
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\bin\Debug\net5.0\entidades.pdb
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.csprojAssemblyReference.cache
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.AssemblyInfoInputs.cache
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.AssemblyInfo.cs
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.csproj.CoreCompileInputs.cache
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.dll
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\ref\entidades.dll
+C:\Users\matias\Source\Repos\ledesmamatiasarispe\Tp_Laboratorio-2-\Trabajo Practico 1\entidades\obj\Debug\net5.0\entidades.pdb
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\bin\Debug\net5.0\entidades.deps.json
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\bin\Debug\net5.0\entidades.dll
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\bin\Debug\net5.0\ref\entidades.dll
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\bin\Debug\net5.0\entidades.pdb
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\obj\Debug\net5.0\entidades.csproj.AssemblyReference.cache
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\obj\Debug\net5.0\entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\obj\Debug\net5.0\entidades.AssemblyInfoInputs.cache
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\obj\Debug\net5.0\entidades.AssemblyInfo.cs
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\obj\Debug\net5.0\entidades.csproj.CoreCompileInputs.cache
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\obj\Debug\net5.0\entidades.dll
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\obj\Debug\net5.0\ref\entidades.dll
+C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\entidades\obj\Debug\net5.0\entidades.pdb
