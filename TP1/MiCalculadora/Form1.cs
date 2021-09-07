@@ -7,13 +7,14 @@ namespace Trabajo_Practico_1
         public LaCalculadora()
         {
             InitializeComponent();
-         
+
+            this.cmbOperador.SelectedIndex = 0;
+            this.lblResultado.Text = "0";
         }
 
         private void Form1_Load(object sender, System.EventArgs e)
         {
-            this.cmbOperador.SelectedIndex = 0;
-            this.lblResultado.Text = "0";
+
         }
 
         private void btnOperar_click(object sender, System.EventArgs e)
