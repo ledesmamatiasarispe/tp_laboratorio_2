@@ -8,13 +8,6 @@ namespace Trabajo_Practico_1
         {
             InitializeComponent();
 
-            this.cmbOperador.SelectedIndex = 0;
-            this.lblResultado.Text = "0";
-        }
-
-        private void Form1_Load(object sender, System.EventArgs e)
-        {
-
         }
 
         private void btnOperar_click(object sender, System.EventArgs e)
@@ -39,7 +32,7 @@ namespace Trabajo_Practico_1
 
         private void btnCerrar_click(object sender, System.EventArgs e)
         {
-            Application.Exit();
+            this.Close();
         }
 
         private void btnConvertirABinario_click(object sender, System.EventArgs e)
@@ -50,6 +43,21 @@ namespace Trabajo_Practico_1
         private void btnConvertirADecimal_Click(object sender, System.EventArgs e)
         {
             this.lblResultado.Text = Numero.BinarioDecimal(this.lblResultado.Text);
+        }
+
+        private void LaCalculadora_Load(object sender, System.EventArgs e)
+        {
+            this.cmbOperador.SelectedIndex = 0;
+            this.lblResultado.Text = "0";
+        }
+
+        private void LaCalculadora_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult = MessageBox.Show("Salir", "cerrar el form?", MessageBoxButtons.YesNo,MessageBoxIcon.Question);
+            if (DialogResult != DialogResult.Yes)
+            {
+                e.Cancel = true;
+            }
         }
     }
 }

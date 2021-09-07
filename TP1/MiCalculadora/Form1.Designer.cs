@@ -185,6 +185,8 @@ namespace Trabajo_Practico_1
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Matias Arispe del curso 2°A ";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.LaCalculadora_FormClosing);
+            this.Load += new System.EventHandler(this.LaCalculadora_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
