@@ -1,5 +1,5 @@
 ﻿using System.Windows.Forms;
-
+using System.Text;
 namespace Trabajo_Practico_1
 {
     public partial  class  LaCalculadora : Form
@@ -12,17 +12,20 @@ namespace Trabajo_Practico_1
 
         private void btnOperar_click(object sender, System.EventArgs e)
         {
-            this.lblResultado.Text = Calculadora.Operar(new Operando(this.txtNumero1.Text), new Operando(this.txtNumero2.Text), (string
-                )this.cmbOperador.SelectedItem).ToString();
+            this.lblResultado.Text = Calculadora.Operar(new Operando(this.txtNumero1.Text), 
+                new Operando(this.txtNumero2.Text), 
+                (string)this.cmbOperador.SelectedItem).ToString();
+            CargarOperacionAListBox(OperacionAText() );
+
         }
 
         private void limpiar()
         {
-            this.txtNumero1.Text = null;
-            this.txtNumero2.Text = null;
-            this.lblResultado.Text = null;
-            this.cmbOperador.SelectedItem = null;
-            this.cmbOperador.SelectedItem = null;
+            this.txtNumero1.Text = "";
+            this.txtNumero2.Text = "";
+            this.lblResultado.Text = "";
+            this.cmbOperador.SelectedIndex = 4;
+            this.lstOperaciones.Items.Clear();
         }
 
         private void btnLimpiar_click(object sender, System.EventArgs e)
@@ -58,5 +61,27 @@ namespace Trabajo_Practico_1
                 e.Cancel = true;
             }
         }
+
+        private string OperacionAText()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendFormat(" {0} {1} {2} = {3} ",
+                txtNumero1.Text.ToString(),
+                cmbOperador.SelectedItem.ToString(),
+                txtNumero2.Text.ToString(),
+                lblResultado.Text.ToString()
+                );
+
+            return sb.ToString();
+        }
+
+
+
+        private void CargarOperacionAListBox(string operacionActual)
+        {
+            lstOperaciones.Items.Add(operacionActual);
+        }
+
     }
 }

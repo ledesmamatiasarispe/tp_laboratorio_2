@@ -38,7 +38,7 @@ namespace Trabajo_Practico_1
             this.btnConvertirADecimal = new System.Windows.Forms.Button();
             this.btnConvertirABinario = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.lstOperaciones = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // txtNumero1
@@ -81,7 +81,8 @@ namespace Trabajo_Practico_1
             "+",
             "-",
             "*",
-            "/"});
+            "/",
+            " "});
             this.cmbOperador.Location = new System.Drawing.Point(122, 49);
             this.cmbOperador.Margin = new System.Windows.Forms.Padding(3, 1, 3, 3);
             this.cmbOperador.MaxDropDownItems = 3;
@@ -161,14 +162,15 @@ namespace Trabajo_Practico_1
             this.lblResultado.TabIndex = 10;
             this.lblResultado.Text = "label1";
             // 
-            // listBox1
+            // lstOperaciones
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 15;
-            this.listBox1.Location = new System.Drawing.Point(331, 11);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(141, 154);
-            this.listBox1.TabIndex = 11;
+            this.lstOperaciones.FormattingEnabled = true;
+            this.lstOperaciones.ItemHeight = 15;
+            this.lstOperaciones.Location = new System.Drawing.Point(331, 11);
+            this.lstOperaciones.Name = "lstOperaciones";
+            this.lstOperaciones.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.lstOperaciones.Size = new System.Drawing.Size(141, 154);
+            this.lstOperaciones.TabIndex = 11;
             // 
             // LaCalculadora
             // 
@@ -177,7 +179,7 @@ namespace Trabajo_Practico_1
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(484, 178);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.lstOperaciones);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnConvertirABinario);
             this.Controls.Add(this.btnConvertirADecimal);
@@ -195,7 +197,7 @@ namespace Trabajo_Practico_1
             this.Name = "LaCalculadora";
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Calculadora de Matias Arispe del curso 2°A ";
+            this.Text = "Calculadora de Matias Arispe del curso 2°C ";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.LaCalculadora_FormClosing);
             this.Load += new System.EventHandler(this.LaCalculadora_Load);
             this.ResumeLayout(false);
@@ -219,7 +221,7 @@ namespace Trabajo_Practico_1
        
         
         private System.Windows.Forms.Label lblResultado;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox lstOperaciones;
     }
 }
 
