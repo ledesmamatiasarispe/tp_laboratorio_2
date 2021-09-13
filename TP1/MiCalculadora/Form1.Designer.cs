@@ -91,7 +91,6 @@ namespace Trabajo_Practico_1
             this.cmbOperador.Size = new System.Drawing.Size(90, 33);
             this.cmbOperador.TabIndex = 3;
             this.cmbOperador.ValueMember = "0";
-            this.cmbOperador.SelectedIndexChanged += new System.EventHandler(this.btnConvertirADecimal_Click);
             // 
             // btnOperar
             // 

@@ -40,12 +40,26 @@ namespace Trabajo_Practico_1
 
         private void btnConvertirABinario_click(object sender, System.EventArgs e)
         {
+            StringBuilder sb = new StringBuilder();
+            sb.Append(this.lblResultado.Text.ToString());
             this.lblResultado.Text = Operando.DecimalBinario(this.lblResultado.Text);
+
+            sb.AppendFormat(" ==> {0} " , this.lblResultado.Text.ToString());
+
+            CargarOperacionAListBox(sb.ToString());
         }
 
         private void btnConvertirADecimal_Click(object sender, System.EventArgs e)
         {
+            StringBuilder sb = new StringBuilder();
+
+            sb.Append(this.lblResultado.Text.ToString());
+
             this.lblResultado.Text = Operando.BinarioDecimal(this.lblResultado.Text);
+
+            sb.AppendFormat(" ==> {0} ", this.lblResultado.Text.ToString());
+
+            CargarOperacionAListBox(sb.ToString());
         }
 
         private void LaCalculadora_Load(object sender, System.EventArgs e)
