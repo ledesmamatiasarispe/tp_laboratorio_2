@@ -24,7 +24,7 @@ namespace tests
             {
 
                 Console.WriteLine("el operador es = " + operador);
-                Console.WriteLine(Calculadora.Operar(new Numero(5), new Numero(5), operador));
+                Console.WriteLine(Calculadora.Operar(new Operando(5), new Operando(5), operador));
 
 
             }

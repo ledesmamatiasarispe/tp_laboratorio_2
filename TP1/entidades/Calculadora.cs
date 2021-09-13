@@ -4,7 +4,7 @@ namespace Trabajo_Practico_1
 {
     public static class Calculadora
     {
-        public static double Operar(Numero numero1, Numero numero2, string operador)
+        public static double Operar(Operando numero1, Operando numero2, string operador)
         {
             double resultado = 0;
             if (operador != null && operador != "")

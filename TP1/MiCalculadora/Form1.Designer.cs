@@ -38,6 +38,7 @@ namespace Trabajo_Practico_1
             this.btnConvertirADecimal = new System.Windows.Forms.Button();
             this.btnConvertirABinario = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // txtNumero1
@@ -46,7 +47,7 @@ namespace Trabajo_Practico_1
             this.txtNumero1.BackColor = System.Drawing.SystemColors.ControlLight;
             this.txtNumero1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtNumero1.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.txtNumero1.Location = new System.Drawing.Point(12, 49);
+            this.txtNumero1.Location = new System.Drawing.Point(12, 48);
             this.txtNumero1.Margin = new System.Windows.Forms.Padding(3, 1, 3, 3);
             this.txtNumero1.Name = "txtNumero1";
             this.txtNumero1.Size = new System.Drawing.Size(100, 34);
@@ -60,7 +61,7 @@ namespace Trabajo_Practico_1
             this.txtNumero2.BackColor = System.Drawing.SystemColors.ControlLight;
             this.txtNumero2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtNumero2.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.txtNumero2.Location = new System.Drawing.Point(222, 49);
+            this.txtNumero2.Location = new System.Drawing.Point(222, 48);
             this.txtNumero2.Margin = new System.Windows.Forms.Padding(3, 1, 3, 3);
             this.txtNumero2.Name = "txtNumero2";
             this.txtNumero2.Size = new System.Drawing.Size(100, 34);
@@ -160,13 +161,23 @@ namespace Trabajo_Practico_1
             this.lblResultado.TabIndex = 10;
             this.lblResultado.Text = "label1";
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 15;
+            this.listBox1.Location = new System.Drawing.Point(331, 11);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(141, 154);
+            this.listBox1.TabIndex = 11;
+            // 
             // LaCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.ClientSize = new System.Drawing.Size(338, 178);
+            this.ClientSize = new System.Drawing.Size(484, 178);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnConvertirABinario);
             this.Controls.Add(this.btnConvertirADecimal);
@@ -208,6 +219,7 @@ namespace Trabajo_Practico_1
        
         
         private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }
 

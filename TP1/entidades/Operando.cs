@@ -2,23 +2,23 @@
 
 namespace Trabajo_Practico_1
 {
-    public class Numero
+    public class Operando
     {
         private double numero;
 
         /// <summary>
         /// El constructor por defecto (sin parámetros) asignará valor 0 al atributo numero.
         /// </summary>
-        public Numero() : this(0)
+        public Operando() : this(0)
         {
             this.numero = 0;
         }
 
-        public Numero(double numero) 
+        public Operando(double numero) 
         {
             this.numero = numero;
         }
-        public Numero(string numero)
+        public Operando(string numero)
         {
             double numeroParseado;
             if(  double.TryParse(numero,out numeroParseado) )
@@ -42,9 +42,9 @@ namespace Trabajo_Practico_1
         }
 
         /// <summary>
-        /// La propiedad SetNumero asignará un valor al atributo número, previa validación.
+        /// La propiedad Numero asignará un valor al atributo número, previa validación.
         /// </summary>
-        public string setNumero
+        public string Numero
         {
             set
             {
@@ -105,7 +105,7 @@ namespace Trabajo_Practico_1
             if (numeroBinario != null && numeroBinario != "")
             {
                 Console.WriteLine(numeroBinario);
-                if (Numero.EsBinario(numeroBinario))
+                if (Operando.EsBinario(numeroBinario))
                 {
                     long numeroParseado;
                     if (long.TryParse(numeroBinario, out numeroParseado))
@@ -148,17 +148,17 @@ namespace Trabajo_Practico_1
             return ConvertirBase((long)numero, 10, 2).ToString();
         }
 
-        public static double operator -(Numero numero1, Numero numero2)
+        public static double operator -(Operando numero1, Operando numero2)
         {
             return numero1.numero - numero2.numero;
         }
 
-        public static double operator +(Numero numero1, Numero numero2)
+        public static double operator +(Operando numero1, Operando numero2)
         {
             return numero1.numero + numero2.numero;
         }
 
-        public static double operator /(Numero numero1, Numero numero2)
+        public static double operator /(Operando numero1, Operando numero2)
         {
             double resultado = double.MinValue;
 
@@ -170,7 +170,7 @@ namespace Trabajo_Practico_1
             return resultado;
         }
 
-        public static double operator *(Numero numero1, Numero numero2)
+        public static double operator *(Operando numero1, Operando numero2)
         {
             return numero1.numero * numero2.numero;
         }

@@ -12,7 +12,7 @@ namespace Trabajo_Practico_1
 
         private void btnOperar_click(object sender, System.EventArgs e)
         {
-            this.lblResultado.Text = Calculadora.Operar(new Numero(this.txtNumero1.Text), new Numero(this.txtNumero2.Text), (string
+            this.lblResultado.Text = Calculadora.Operar(new Operando(this.txtNumero1.Text), new Operando(this.txtNumero2.Text), (string
                 )this.cmbOperador.SelectedItem).ToString();
         }
 
@@ -37,18 +37,17 @@ namespace Trabajo_Practico_1
 
         private void btnConvertirABinario_click(object sender, System.EventArgs e)
         {
-            this.lblResultado.Text = Numero.DecimalBinario(this.lblResultado.Text);
+            this.lblResultado.Text = Operando.DecimalBinario(this.lblResultado.Text);
         }
 
         private void btnConvertirADecimal_Click(object sender, System.EventArgs e)
         {
-            this.lblResultado.Text = Numero.BinarioDecimal(this.lblResultado.Text);
+            this.lblResultado.Text = Operando.BinarioDecimal(this.lblResultado.Text);
         }
 
         private void LaCalculadora_Load(object sender, System.EventArgs e)
         {
-            this.cmbOperador.SelectedIndex = 0;
-            this.lblResultado.Text = "0";
+            this.limpiar();
         }
 
         private void LaCalculadora_FormClosing(object sender, FormClosingEventArgs e)
