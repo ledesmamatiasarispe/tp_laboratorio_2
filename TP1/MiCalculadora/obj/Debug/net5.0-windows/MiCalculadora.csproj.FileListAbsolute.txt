@@ -82,3 +82,4 @@ C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0
 C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
 C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
 C:\Users\matias\Source\Repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\matias\source\repos\tp_laboratorio_2\TP1\MiCalculadora\obj\Debug\net5.0-windows\Trabajo_Practico_1.Properties.Resources.resources

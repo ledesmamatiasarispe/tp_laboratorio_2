@@ -39,7 +39,7 @@ namespace Trabajo_Practico_1
             this.btnConvertirABinario = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
             this.lstOperaciones = new System.Windows.Forms.ListBox();
-            this.SuspendLayout();
+           this.SuspendLayout();
             // 
             // txtNumero1
             // 
@@ -61,7 +61,7 @@ namespace Trabajo_Practico_1
             this.txtNumero2.BackColor = System.Drawing.SystemColors.ControlLight;
             this.txtNumero2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtNumero2.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.txtNumero2.Location = new System.Drawing.Point(222, 48);
+            this.txtNumero2.Location = new System.Drawing.Point(222, 47);
             this.txtNumero2.Margin = new System.Windows.Forms.Padding(3, 1, 3, 3);
             this.txtNumero2.Name = "txtNumero2";
             this.txtNumero2.Size = new System.Drawing.Size(100, 34);
@@ -163,6 +163,7 @@ namespace Trabajo_Practico_1
             // 
             // lstOperaciones
             // 
+            this.lstOperaciones.BackColor = System.Drawing.SystemColors.Info;
             this.lstOperaciones.FormattingEnabled = true;
             this.lstOperaciones.ItemHeight = 15;
             this.lstOperaciones.Location = new System.Drawing.Point(331, 11);
@@ -170,14 +171,15 @@ namespace Trabajo_Practico_1
             this.lstOperaciones.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.lstOperaciones.Size = new System.Drawing.Size(141, 154);
             this.lstOperaciones.TabIndex = 11;
-            // 
+            this.lstOperaciones.SelectedIndexChanged += new System.EventHandler(this.lstOperaciones_SelectedIndexChanged);
+           // 
             // LaCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.ClientSize = new System.Drawing.Size(484, 178);
+            this.ClientSize = new System.Drawing.Size(484, 177);
             this.Controls.Add(this.lstOperaciones);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnConvertirABinario);
@@ -221,6 +223,7 @@ namespace Trabajo_Practico_1
         
         private System.Windows.Forms.Label lblResultado;
         private System.Windows.Forms.ListBox lstOperaciones;
+        private System.Windows.Forms.CheckBox modoNocturno;
     }
 }
 

@@ -4,10 +4,11 @@ namespace Trabajo_Practico_1
 {
     public partial  class  LaCalculadora : Form
     {
+
+
         public LaCalculadora()
         {
             InitializeComponent();
-
         }
 
         private void btnOperar_click(object sender, System.EventArgs e)
@@ -97,5 +98,14 @@ namespace Trabajo_Practico_1
             lstOperaciones.Items.Add(operacionActual);
         }
 
+        private void lstOperaciones_SelectedIndexChanged(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }
